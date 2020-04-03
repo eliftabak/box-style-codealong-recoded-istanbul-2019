@@ -135,6 +135,13 @@ img, video, audio, iframe, table, form {
 section {
   padding: 30px;
   margin-bottom: 20px;
+  background: linear-gradient(
+  to bottom,
+  #efefef 0%,
+  #ffffff 24%,
+  #ffffff 68%,
+  #dddddd 100%
+);
 
 }
 
